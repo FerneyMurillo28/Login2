@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="error_input_empty">Los campos no pueden estar vacios</string>
+    <string name="error_not_e_valid_email">Por favor ingrese un email valido</string>
+    <string name="error_not_e_valid_phone_number">Por favor ingrese un numero de telefono valido</string>
+    <string name="error_incorrectly_repeated_password">Las contraseñas no coincide</string>
+    <string name="error_invalid_credentials">El email o la contraseña son incorrectas</string>
+    <string name="success_registration">Usuario nuevo registrado</string>
+    <string name="success_login">Usuario logueado</string>
+    <string name="error_unknown_">Error desconocido</string>
+</resources>
